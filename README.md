@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>I'm Hyejin 🚀</h1>
+<h1>I'm Root! front-end developer🚀</h1>
 
 
 <!--
