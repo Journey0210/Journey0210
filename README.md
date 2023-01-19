@@ -1,5 +1,6 @@
 ### Hi there 👋
-<h1>Hello! I'm Olive🫒! frontend developer specializing in React.js and Next.js with TypeScript!</h1>
+<h1>Hello! I'm Olive🫒! </h1>
+<h2>frontend developer specializing in React.js and Next.js with TypeScript!</h2>
 
 
 <!--
