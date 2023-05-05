@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hello! I'm Olivia🫒! </h1>
+<h1>Hello! I'm Hyejin🫒! </h1>
 <h2>frontend developer specializing in React.js and Next.js with TypeScript!</h2>
 
 
