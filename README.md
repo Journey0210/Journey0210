@@ -4,7 +4,7 @@
 <br/>
 <h2><b>WORK EXPERIENCE</b></h2>
 <b>□ Web Front-End Developer</b>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S_Bridge Co.,Ltd (a subsidiary of Bungaejangter .Inc) / Gangnam-gu, Seoul, Korea<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;April 2022 - current</p>
+<p>&nbsp;&nbsp;&nbsp&nbspS_Bridge Co.,Ltd (a subsidiary of Bungaejangter .Inc) / Seoul, Korea<br/>&nbsp;&nbsp;&nbsp;&nbsp;April 2022 - current</p>
 
 <br/>
 <h2><b>PROJECTS</b></h2>
