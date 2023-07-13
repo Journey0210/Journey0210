@@ -14,7 +14,7 @@
 <!-- </ul> -->
 
 <br/>
-<h2><b>SKILLS</b></h2>
+<h2><b>TECH STACK</b></h2>
 <section><img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=%23111111"/>
 <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=Next.js&logoColor=%23fff"/>
 <img src="https://img.shields.io/badge/Github-%23181717?style=flat&logo=GitHub&logoColor=%23fff"/></section>
