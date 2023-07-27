@@ -6,8 +6,7 @@
 <b>□ Web Front-End Developer</b>
 <p>&nbsp;&nbsp;&nbsp&nbspS_Bridge Co.,Ltd (a subsidiary of Bungaejangter .Inc) / Seoul, Korea<br/>&nbsp;&nbsp;&nbsp;&nbsp;April 2022 - current</p>
 
-<br/>
-<h2><b>PROJECTS</b></h2>
+
 <!-- <ul> -->
 <!-- <li>⛳️ <a href="https://m.pricegolf.co.kr/" target="_blank" rel="noopener noreferrer">PriceGolf Mobile Web</a> , Frontend (2022.05 - 2023.05)</li>
 <li>🚀 <a href="https://bbexchange.notion.site/513dc5fbbd6a4a2da464e76cda23d5a7" target="_blank" rel="noopener noreferrer">BibubExchange</a>, Frontend (2022.12 - current)</li> -->
