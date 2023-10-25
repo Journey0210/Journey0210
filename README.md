@@ -13,7 +13,8 @@
 
 <br/>
 <h2><b>TECH STACK</b></h2>
-<section><img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=%23111111"/>
+<section>
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=Next.js&logoColor=%23fff"/>
 <img src="https://img.shields.io/badge/Github-%23181717?style=flat&logo=GitHub&logoColor=%23fff"/>
 <img src="https://img.shields.io/badge/SWR-000000.svg?style=for-the-badge&logo=SWR&logoColor=white"/>
