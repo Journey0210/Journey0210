@@ -1,4 +1,5 @@
 <h1><b>Hi, I'm Hyejin ✨</b></h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <p>Frontend Developer specializing in React.js with TypeScript</p>
 
 <br/>
@@ -15,7 +16,10 @@
 <h2><b>TECH STACK</b></h2>
 <section><img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=%23111111"/>
 <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=Next.js&logoColor=%23fff"/>
-<img src="https://img.shields.io/badge/Github-%23181717?style=flat&logo=GitHub&logoColor=%23fff"/></section>
+<img src="https://img.shields.io/badge/Github-%23181717?style=flat&logo=GitHub&logoColor=%23fff"/>
+<img src="https://img.shields.io/badge/Github-%23181717?style=flat&logo=GitHub&logoColor=%23fff"/>
+
+</section>
 
 <section>
 <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=TypeScript&logoColor=%23fff"/>
