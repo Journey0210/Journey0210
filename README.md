@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi,%20I'm%20Hyejin🇰🇷&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi,%20I'm%20Hyejin✨&fontSize=90" />
 
 <h2><b>👩🏻‍💻 WORK EXPERIENCE</b></h2>
 <h3><b>Web Front-End Developer</b></h3>
