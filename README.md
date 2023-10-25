@@ -18,19 +18,22 @@
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/SWR-000000.svg?style=for-the-badge&logo=SWR&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
 
 </section>
 
 <section>
 <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=%23fff"/>
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=%23000"/>
-<img src="https://img.shields.io/badge/React%20Query-%23FF4154?style=for-the-badge&logo=ReactQuery&logoColor=%23fff"/>
 <img src="https://img.shields.io/badge/Redux%20Toolkit-%23764ABC?style=for-the-badge&logo=Redux&logoColor=%23fff"/>
-<img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Query-%23FF4154?style=for-the-badge&logo=ReactQuery&logoColor=%23fff"/>
+<img src="https://img.shields.io/badge/SWR-000000.svg?style=for-the-badge&logo=SWR&logoColor=white"/>
+</section>
+
+<section>
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white"/>
 </section>
 
 <section>
