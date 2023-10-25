@@ -24,8 +24,8 @@
 <section>
 <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=%23fff"/>
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=%23000"/>
-<img src="https://img.shields.io/badge/ReactQuery-%23FF4154?style=for-the-badge&logo=ReactQuery&logoColor=%23fff"/>
-<img src="https://img.shields.io/badge/ReduxToolkit-%23764ABC?style=for-the-badge&logo=Redux&logoColor=%23fff"/>
+<img src="https://img.shields.io/badge/React-Query-%23FF4154?style=for-the-badge&logo=ReactQuery&logoColor=%23fff"/>
+<img src="https://img.shields.io/badge/Redux-Toolkit-%23764ABC?style=for-the-badge&logo=Redux&logoColor=%23fff"/>
 </section>
 
 <section>
