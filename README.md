@@ -31,7 +31,7 @@
 <section>
 <img src="https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=Sass&logoColor=%23fff"/>
 <img src="https://img.shields.io/badge/?style=for-the-badge&logo=styled-components&logoColor=%23fff"/>
- <img src="https://img.shields.io/badge/Styled%20Components-%23DB7093?style=for-the-badge&logo=Gumroad&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Styled%20Components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=black"/>
 </section>
 
 
