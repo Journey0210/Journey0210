@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi,%20I'm%20Hyejin✨&fontSize=90" />
 
 <h2><b>WORK EXPERIENCE</b></h2>
-<b>👩🏻‍💻 Web Front-End Developer</b>
-<p>&nbsp;&nbsp;&nbsp&nbspS_Bridge Co.,Ltd (a subsidiary of Bungaejangter.Inc ⚡️) / Seoul, Korea<br/>&nbsp;&nbsp;&nbsp;&nbsp;April 2022 - current</p>
+<h3><b>👩🏻‍💻 Web Front-End Developer</b></h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;S_Bridge Co.,Ltd (a subsidiary of Bungaejangter.Inc ⚡️) / Seoul, Korea<br/>&nbsp;&nbsp;&nbsp;&nbsp;April 2022 - current</p>
 
  <ul> 
 <li>⛳️ <a href="https://m.pricegolf.co.kr/" target="_blank" rel="noopener noreferrer">PriceGolf Mobile Web</a> , Frontend (2022.05 - 2023.05)</li>
