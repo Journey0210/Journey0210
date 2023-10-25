@@ -1,6 +1,5 @@
-<h1><b>Hi, I'm Hyejin ✨</b></h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Hyejin✨&fontSize=90" />
-<p>Frontend Developer specializing in React.js with TypeScript</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#5abdfa&height=300&section=header&text=Hi,%20I'm%20Hyejin✨&fontSize=90" />
+<p>Web Frontend Developer specializing in React.js with TypeScript</p>
 
 <br/>
 <h2><b>WORK EXPERIENCE</b></h2>
