@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi,%20I'm%20Hyejin✨&fontSize=90" />
 
-<br/>
 <h2><b>WORK EXPERIENCE</b></h2>
 <b>□ Web Front-End Developer</b>
 <p>&nbsp;&nbsp;&nbsp&nbspS_Bridge Co.,Ltd (a subsidiary of Bungaejangter.Inc ⚡️) / Seoul, Korea<br/>&nbsp;&nbsp;&nbsp;&nbsp;April 2022 - current</p>
