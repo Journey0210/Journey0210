@@ -11,6 +11,7 @@
   <li>🚀 <a href="https://bbexchange.notion.site/513dc5fbbd6a4a2da464e76cda23d5a7" target="_blank" rel="noopener noreferrer">BibubExchange</a>, Frontend (2022.12 - 2023.09)</li>
  </ul> 
 <br/>
+
 ### 🪪 Certifications
 
 #### 정보처리기사 (Information Processing Engineer)
