@@ -10,10 +10,10 @@
   <li>⛳️ <a href="https://m.pricegolf.co.kr/" target="_blank" rel="noopener noreferrer">PriceGolf Mobile Web</a> , Frontend (2022.05 - 2023.05)</li>
   <li>🚀 <a href="https://bbexchange.notion.site/513dc5fbbd6a4a2da464e76cda23d5a7" target="_blank" rel="noopener noreferrer">BibubExchange</a>, Frontend (2022.12 - 2023.09)</li>
  </ul> 
+<br/>
+### 🪪 Certifications
 
-### Certifications
-
-### 정보처리기사 (Information Processing Engineer)
+#### 정보처리기사 (Information Processing Engineer)
 
 - **Issuing Organization:** 한국산업인력공단 (Korea Industrial Complex Corp.)
 - **Date Issued:** June 2024
