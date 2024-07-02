@@ -6,10 +6,9 @@
 <br/>
 
 ### 🗂️ PROJECTS
- <ul> 
-  <li>⛳️ <a href="https://m.pricegolf.co.kr/" target="_blank" rel="noopener noreferrer">PriceGolf Mobile Web</a> , Frontend (2022.05 - 2023.05)</li>
-  <li>🚀 <a href="https://bbexchange.notion.site/513dc5fbbd6a4a2da464e76cda23d5a7" target="_blank" rel="noopener noreferrer">BibubExchange</a>, Frontend (2022.12 - 2023.09)</li>
- </ul> 
+- **⛳️ <a href="https://m.pricegolf.co.kr/" target="_blank" rel="noopener noreferrer">PriceGolf Mobile Web</a> , Frontend (2022.05 - 2023.05)**
+- **🚀 <a href="https://bbexchange.notion.site/513dc5fbbd6a4a2da464e76cda23d5a7" target="_blank" rel="noopener noreferrer">BibubExchange</a>, Frontend (2022.12 - 2023.09)**
+  
 <br/>
 
 ### 🪪 CERTIFICATIONS
