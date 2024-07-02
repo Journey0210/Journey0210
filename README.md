@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi,%20I'm%20Hyejin✨&fontSize=90" />
 
-<h2><b>👩🏻‍💻 WORK EXPERIENCE</b></h2>
+### 👩🏻‍💻 WORK EXPERIENCE
 <h3><b>Web Front-End Developer</b></h3>
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S_Bridge Co.,Ltd (a subsidiary of Bungaejangter.Inc ⚡️) / Gangnam-gu, Seoul, Korea<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;April 2022 - April 2024</h4>
 <br/>
@@ -11,8 +11,14 @@
   <li>🚀 <a href="https://bbexchange.notion.site/513dc5fbbd6a4a2da464e76cda23d5a7" target="_blank" rel="noopener noreferrer">BibubExchange</a>, Frontend (2022.12 - 2023.09)</li>
  </ul> 
 
-<br/>
-<h2><b>TECH STACK</b></h2>
+### Certifications
+
+### 정보처리기사 (Information Processing Engineer)
+
+- **Issuing Organization:** 한국산업인력공단 (Korea Industrial Complex Corp.)
+- **Date Issued:** June 2024
+
+### TECH STACK
 <section>
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
