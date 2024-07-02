@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi,%20I'm%20Hyejin✨&fontSize=90" />
 
 ### 👩🏻‍💻 WORK EXPERIENCE
-<h3><b>Web Front-End Developer</b></h3>
+  ** Web Front-End Developer
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S_Bridge Co.,Ltd (a subsidiary of Bungaejangter.Inc ⚡️) / Gangnam-gu, Seoul, Korea<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;April 2022 - April 2024</h4>
 <br/>
 
@@ -12,7 +12,7 @@
  </ul> 
 <br/>
 
-### 🪪 Certifications
+### 🪪 CERTIFICATIONS
 
 #### 정보처리기사 (Information Processing Engineer)
 
