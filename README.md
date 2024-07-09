@@ -6,7 +6,7 @@
 <br/>
 
 ### 🗂️ PROJECTS
-- **⛳️ <a href="https://m.pricegolf.co.kr/" target="_blank" rel="noopener noreferrer">m.pricegolf.co.kr</a> , Frontend (2022.05 - 2023.05)**
+- **⛳️ <a href="https://m.pricegolf.co.kr/" target="_blank" rel="noopener noreferrer">m.pricegolf.co.kr</a> , Frontend (2022.05 - 2024.02)**
 - **🚀 <a href="https://bibeop.com/" target="_blank" rel="noopener noreferrer">bibeop.com</a>, Frontend (2022.12 - 2023.09)**
   
 <br/>
